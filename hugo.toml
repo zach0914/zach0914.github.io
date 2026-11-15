@@ -1,0 +1,15 @@
+baseURL = "https://zach0914.github.io/"
+languageCode = "zh-CN"
+locale = "zh-CN"
+title = "Zach's Blog"
+
+theme = "hugo-theme-stack"
+
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+[pagination]
+pagerSize = 10
+
+[params.comments]
+enabled = false
